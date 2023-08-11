@@ -1,0 +1,26 @@
+{
+    "Video1": {
+        "url": "https://youtu.be/-n_gb-KV1j0",
+        "title": "Rels B - LOVE IT",
+        "mini": "lib/assets/img/Rels B.jpg",
+        "duration": "3:09",
+        "date": "6 abr 2018",
+        "description": "Producido por Lex Luthorz Flakk Daniels LP I LOVE RIBS 2018 ©    "
+    },
+    "Video2": {
+        "url": "https://youtu.be/opr9Vewr3Oo",
+        "title": "Rels B - LEJOS DE TI",
+        "mini": "lib/assets/img/Rels B.jpg",
+        "duration": "3:20",
+        "date": "27 feb 2018",
+        "description": "Segundo adelanto de Flakk Daniels LP I LOVE RIBS 2018 ©"
+    },
+    "Video3": {
+        "url": "https://youtu.be/d3UKvU2SlFo",
+        "title": "Rels B - ES MEJOR",
+        "mini": "lib/assets/img/Rels B.jpg",
+        "duration": "3:37",
+        "date": "15 dic 2017",
+        "description": "Primer adelanto de Flakk Daniel's LP I LOVE RIBS 2018 ©"
+    }
+}

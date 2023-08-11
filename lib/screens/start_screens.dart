@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:kctvapp/wid/suggestion_card.dart';
 
 
 class StartScreen extends StatefulWidget {
@@ -18,14 +19,11 @@ class _StartScreenState extends State<StartScreen> {
           style: Theme.of(context).textTheme.headlineLarge,
         ),
       ),
-      body: Center(
+      body: const Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Text(
-              'Targetas de recomendacioones',
-              style: Theme.of(context).textTheme.bodyMedium,
-            ),
+            SuggestionCard(),
           ],
         ),
       ),

@@ -1,0 +1,26 @@
+{
+    "Video1": {
+        "url": "https://youtu.be/qw84n6JSIeE",
+        "title": "Rels B - AfroLOVA'",
+        "mini": "lib/assets/img/AfroLova.png",
+        "duration": "2:36",
+        "date": "20 jul 2023 ",
+        "description": "Todos los videos 3D que acompañan al álbum han sido creados en el estudio “3D scan NYcap3d” de Brooklyn, Nueva York."
+    },
+    "Video2": {
+        "url": "https://youtu.be/UN_gY08Xylg",
+        "title": "Rels B - Un Rodeoooo",
+        "mini": "lib/assets/img/Rels-UnRodeo.png",
+        "duration": "2:53",
+        "date": "12 jul 2023",
+        "description": "Official Music Video by Rels B performing Un Rodeoooo"
+    },
+    "Video3": {
+        "url": "https://youtu.be/w1BUZRxF9Yk",
+        "title": "Rels B - Sin Gato (MIAU!) ",
+        "mini": "lib/assets/img/Sin Gato.png",
+        "duration": "3:16",
+        "date": "25 may 2023",
+        "description": "Official Music Video by Rels B performing Sin Gato (MIAU!)"
+    }
+}

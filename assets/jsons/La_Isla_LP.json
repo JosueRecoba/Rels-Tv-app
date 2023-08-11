@@ -1,0 +1,26 @@
+{
+    "Video1": {
+        "url": "https://youtu.be/ljG6qXz8aNQ",
+        "title": "Rels B - LA PRISIÓN",
+        "mini": "lib/assets/img/Rels-B-La-Isla.jpg",
+        "duration": "3:16",
+        "date": "26 dic 2020",
+        "description": "Music video by Rels B performing LA PRISIÓN (Lyric Video). (C) 2020 Sony Music Entertainment España, S.L "
+    },
+    "Video2": {
+        "url": "https://youtu.be/fzjHoks7dUo",
+        "title": "Rels B - UNA CUMBIA TRISTE ",
+        "mini": "lib/assets/img/Rels-B-La-Isla.jpg",
+        "duration": "3:31",
+        "date": "26 dic 2020",
+        "description": "Music video by Rels B performing UNA CUMBIA TRISTE (Lyric Video). (C) 2020 Sony Music Entertainment España, S.L"
+    },
+    "Video3": {
+        "url": "https://youtu.be/4lx14EMcWBM",
+        "title": "Rels B - UN VERANO EN MALLORCA",
+        "mini": "lib/assets/img/Rels-B-La-Isla.jpg",
+        "duration": "2:22",
+        "date": "8 jul 2020",
+        "description": "Official Music Video by Rels B performing Un Verano en Mallorca"
+    }
+}
